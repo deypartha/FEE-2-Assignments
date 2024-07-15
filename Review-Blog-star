@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="author">
+        <img src="https://www.euroschoolindia.com/wp-content/uploads/2023/08/study-rewards.jpg" alt="" height="300" width="300">
+        <h2>by John Doe | 1 day ago</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste magnam dolorum perspiciatis repellendus corporis, eos laboriosam! Dolorum assumenda facere quas in modi saepe perferendis, commodi fuga molestias ut itaque magnam.
+        Neque sit laborum, at beatae harum exercitationem modi similique quasi culpa consequuntur et. Perferendis dicta ratione at, dolore nesciunt repudiandae doloribus nulla aliquid! Tempora perspiciatis officiis non doloremque deserunt in!
+        Suscipit, praesentium rerum? Itaque ex corrupti possimus distinctio beatae in, aspernatur tempora maiores. Obcaecati id sed unde alias, recusandae consequuntur totam veniam dolorem dolores magni vitae corporis animi provident ipsum.
+        Quia, enim mollitia! Odit deleniti ut laboriosam earum impedit magnam, dolor reprehenderit? Beatae voluptate dolore fugiat iusto minus molestiae voluptatem non, accusamus id soluta, corporis fugit provident qui perferendis tempore?
+        Explicabo corporis, minus sint unde perferendis eveniet itaque facilis eius iure provident sapiente dolores rerum nam quidem amet hic suscipit ipsam eaque numquam omnis consectetur libero. Distinctio odio ipsam laudantium?</p>
+        <div id="post-1">
+            <img src="https://cdn.lifehack.org/wp-content/uploads/2015/03/tumblr_nd4wnpO3ZS1tv8vcro1_r1_1280.jpg" alt="" height="300" width="300">
+            <h2>Fahrenheit 451, by Ray Bradbury</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis neque perspiciatis assumenda alias modi, quidem voluptates magnam dolore hic inventore porro pariatur ipsum nostrum esse officiis fuga nemo odit sapiente?
+            Quod, magnam molestiae consequatur soluta odio a excepturi repudiandae corrupti placeat natus nihil tenetur dolore, iste quidem facere eius facilis eligendi harum hic voluptatem quam tempore. Ratione facilis perferendis quaerat!
+            Est cumque ea molestias repellat nesciunt eos impedit. Officia modi molestias aliquid doloribus recusandae cum eum numquam commodi pariatur a quibusdam dolore ipsa, nulla porro maiores ea officiis. Fuga, reprehenderit.
+            Aliquam ipsum, illum praesentium ab officia amet rerum assumenda perspiciatis, dolor laboriosam tempore fugiat id distinctio harum consequuntur blanditiis expedita, nesciunt reiciendis inventore accusantium dolorem non! Iure laboriosam reiciendis nam.
+            Optio molestiae expedita cumque sed, quis debitis velit ex itaque, distinctio ipsam, placeat maiores consequuntur nulla tempora. Quae quidem quibusdam saepe repellat earum hic possimus est perferendis velit ex! Ex?</p>
+        </div>
+        <div id="post-2">
+            <img src="https://cdn.lifehack.org/wp-content/uploads/2015/03/Hobbit_book.jpg" alt="" width="300" height="300">
+            <h2>The Hobbit, by J.R.R. Tolkien</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At a enim maiores aliquam amet aspernatur quae hic ipsum fugit animi laudantium distinctio voluptates, rem cumque fuga, unde vero doloremque doloribus!
+            Dolorum ut eius fuga ipsum iste error veritatis saepe repellendus tenetur eos optio cumque, voluptate totam, exercitationem voluptas iusto doloremque aliquid impedit laborum ullam suscipit nam. Accusamus minima provident voluptatibus.
+            Praesentium aliquid minus commodi numquam explicabo dolor illum, eum ad, earum similique libero voluptates. Aperiam quae culpa tenetur deleniti voluptatibus consectetur vitae iste alias, sapiente voluptate. Illo ducimus eos architecto.
+            Nisi dicta at, commodi dolore soluta reiciendis! Libero doloribus sapiente, quo quas, commodi hic id illum quaerat necessitatibus harum architecto reprehenderit? Sed adipisci optio error quas autem dolores sequi eligendi!
+            Provident, perferendis! Minima amet perspiciatis ratione quidem cupiditate, veniam dolore animi, non dignissimos maiores vero laboriosam. Odit, inventore dolores natus ipsa culpa ducimus nam blanditiis laboriosam rerum ullam, perspiciatis veniam?</p>
+        </div>
+        <div id="post-2">
+            <img src="https://bookstech.in/cdn/shop/files/thebookthief_400x.jpg?v=1713166733" alt="" width="300" height="300">
+            <h2>The Book Thief, by Markus Zusak</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At a enim maiores aliquam amet aspernatur quae hic ipsum fugit animi laudantium distinctio voluptates, rem cumque fuga, unde vero doloremque doloribus!
+            Dolorum ut eius fuga ipsum iste error veritatis saepe repellendus tenetur eos optio cumque, voluptate totam, exercitationem voluptas iusto doloremque aliquid impedit laborum ullam suscipit nam. Accusamus minima provident voluptatibus.
+            Praesentium aliquid minus commodi numquam explicabo dolor illum, eum ad, earum similique libero voluptates. Aperiam quae culpa tenetur deleniti voluptatibus consectetur vitae iste alias, sapiente voluptate. Illo ducimus eos architecto.
+            Nisi dicta at, commodi dolore soluta reiciendis! Libero doloribus sapiente, quo quas, commodi hic id illum quaerat necessitatibus harum architecto reprehenderit? Sed adipisci optio error quas autem dolores sequi eligendi!
+            Provident, perferendis! Minima amet perspiciatis ratione quidem cupiditate, veniam dolore animi, non dignissimos maiores vero laboriosam. Odit, inventore dolores natus ipsa culpa ducimus nam blanditiis laboriosam rerum ullam, perspiciatis veniam?</p>
+        </div>
+        <div id="related-content">
+            <h2>Related Content</h2>
+            <ul>
+                <li>The Golden Book</li>
+                <li>MORE FUN IN THE NEW WORLD</li>
+                <li>UNDER THE BIG BLACK SUN</li>
+            </ul>
+        </div>
+    </div>
+    <div id="contact-details">
+        <p><strong>email:</strong> john.doe@example.com | <strong>phone:</strong> +91-12345-67890</p>
+    </div>
+</body>
+</html>
